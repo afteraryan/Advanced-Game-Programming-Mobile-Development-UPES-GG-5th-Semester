@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AGPA_Exp1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\AGPA_Exp2\AGPA_Exp1\main.cpp(33,28): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\AGPA_Exp2\AGPA_Exp1\main.cpp(33,49): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+  AGPA_Exp1.vcxproj -> D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\AGPA_Exp2\x64\Debug\AGPA_Exp2.exe
+          1 file(s) copied.

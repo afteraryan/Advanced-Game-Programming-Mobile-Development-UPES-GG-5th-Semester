@@ -7,12 +7,32 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 
+import static java.lang.Math.sqrt;
+
 public class MainActivity extends AppCompatActivity {
     Button btn1, btn2, btn3, btn4, btn5, btn6, btn7, btn8, btn9, btn0, btnAdd, btnSub;
-    Button btnDiv, btnMul, btnClear, btnEqual, btnDot;
+    Button btnDiv, btnMul, btnClear, btnEqual, btnDot, btnSquare, btnSqrt, btnFactorial, btnPower;
     EditText ed1;
     float Res1, Res2;
-    boolean Add, Sub, Mul, Div;
+    boolean Add, Sub, Mul, Div, Power;
+
+    float Factorial(float x)
+    {
+        float result=1;
+        for(int i=1; i<=x; i++)
+            result=result*i;
+        System.out.println(result);
+        return result;
+    }
+
+    float PowerCalc(float x, float y)
+    {
+        float result=x;
+        for(int i=1; i<y; i++)
+            result=result*x;
+        System.out.println(result);
+        return result;
+    }
 
     void ButtonToEditText()
     {
@@ -168,8 +188,81 @@ public class MainActivity extends AppCompatActivity {
                     ed1.setText(Res1/Res2+"");
                     Div=false;
                 }
+                if(Power==true){
+                    ed1.setText(PowerCalc(Res1,Res2) +"");
+                    Power=false;
+                }
             }
         });
+
+        //Square
+        btnSquare.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(ed1==null)
+                {
+                    ed1.setText("");
+                }
+                else
+                {
+                    Res1 = Float.parseFloat(ed1.getText()+"");
+                    //Square=true;
+                    ed1.setText(Res1*Res1+"");
+                }
+            }
+        });
+        //SquareRoot
+        btnSqrt.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(ed1==null)
+                {
+                    ed1.setText("");
+                }
+                else
+                {
+                    Res1 = Float.parseFloat(ed1.getText()+"");
+                    //Square=true;
+                    ed1.setText(sqrt(Res1)+"");
+                }
+            }
+        });
+
+        //Factorial
+        btnFactorial.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(ed1==null)
+                {
+                    ed1.setText("");
+                }
+                else
+                {
+                    Res1 = Float.parseFloat(ed1.getText()+"");
+                    //Square=true;
+                    ed1.setText(Factorial(Res1)+"");
+                }
+            }
+        });
+
+        //Power
+        btnPower.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                if(ed1==null)
+                {
+                    ed1.setText("");
+                }
+                else
+                {
+                    Res1 = Float.parseFloat(ed1.getText()+"");
+                    Power=true;
+                    ed1.setText(null);
+                }
+            }
+        });
+
+
 
         //Clear
         btnClear.setOnClickListener(new View.OnClickListener() {
@@ -203,6 +296,10 @@ public class MainActivity extends AppCompatActivity {
         btnSub = (Button) findViewById(R.id.btnSub);
         btnMul = (Button) findViewById(R.id.btnMul);
         btnDiv = (Button) findViewById(R.id.btnDiv);
+        btnSquare = (Button) findViewById(R.id.btnSquare);
+        btnSqrt = (Button) findViewById(R.id.btnSqrt);
+        btnFactorial = (Button) findViewById(R.id.btnFactorial);
+        btnPower = (Button) findViewById(R.id.btnPower);
         btnEqual = (Button) findViewById(R.id.btnEqual);
         btnDot = (Button) findViewById(R.id.btnDot);
         btnClear = (Button) findViewById(R.id.btnClear);

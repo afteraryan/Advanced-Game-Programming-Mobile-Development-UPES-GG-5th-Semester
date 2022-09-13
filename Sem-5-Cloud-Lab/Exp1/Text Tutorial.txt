@@ -1,0 +1,17 @@
+Azure Functions
+
+.Net6 lts
+
+Anonymous
+
+Function -> HTTP Triger
+
+create()
+
+//wait for errors to go
+
+Run()
+
+copy local host ID
+
+Paste in browser -> ?name = Aryan

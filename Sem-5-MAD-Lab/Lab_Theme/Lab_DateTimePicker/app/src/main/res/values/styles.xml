@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme_Master" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorActivity</item>
+        <item name="colorPrimaryDark">@color/colorActivityDark</item>
+        <item name="colorAccent">@color/colorActivityAccent</item>
+        <item name="android:textSize">12dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="backgroundTint">#CC0000</item>
+    </style>
+
+    <style name="Theme_Text" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/TextPrimary</item>
+        <item name="colorPrimaryDark">@color/TextPrimaryDark</item>
+        <item name="colorAccent">@color/TextAccent</item>
+        <item name="android:textSize">34dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#673AB7</item>
+        <item name="backgroundTint">#E91E63</item>
+    </style>
+
+    <style name="Theme_Button" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/TextPrimary</item>
+        <item name="colorPrimaryDark">@color/TextPrimaryDark</item>
+        <item name="colorAccent">@color/TextAccent</item>
+        <item name="android:textSize">72dp</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">#673AB7</item>
+        <item name="backgroundTint">#FF9800</item>
+        <item name="fontFamily">sans-serif-thin</item>
+    </style>
+
+</resources>

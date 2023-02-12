@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f9ce652-e363-418d-8dcf-a856835a3538" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/ipch/AutoPCH/a88ef42c56becd5c/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/ipch/AutoPCH/a88ef42c56becd5c/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/FileContentIndex/5f6d370b-a6fc-450b-969e-42274dec12c5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/ipch/AutoPCH/21fb9cec282cd284/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/ipch/AutoPCH/21fb9cec282cd284/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/ipch/AutoPCH/36d55abc49fa3534/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/ipch/AutoPCH/36d55abc49fa3534/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/tempCodeRunnerFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/tempCodeRunnerFile.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Exp3/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/FileContentIndex/e214affa-a4bd-4995-9b7a-82f93603bf08.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/FileContentIndex/ec9aecfb-198d-40a5-bc39-8d96c873b5b4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/Browse.VC.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="2ICzm1FJDMgwY3FDeDOTBVRyiFP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab_Database/Lab_DateTimePicker" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f9ce652-e363-418d-8dcf-a856835a3538" name="Default Changelist" comment="" />
+      <created>1666075398712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666075398712</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="163" key="AndroidCreateResourceFileDialog" timestamp="1669701785657">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="349" y="163" key="AndroidCreateResourceFileDialog/0.0.1536.816@0.0.1536.816" timestamp="1669701785657" />
+    <state x="627" y="221" key="AndroidCreateXmlResourceDialog" timestamp="1669701831701">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="627" y="221" key="AndroidCreateXmlResourceDialog/0.0.1536.816@0.0.1536.816" timestamp="1669701831701" />
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1669704027298">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1669704027298" />
+  </component>
+</project>

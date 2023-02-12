@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8eb9b7a-0f4d-4140-b3dd-ccb78b2e8ddd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/androidTest/java/com/example/lab5_implicitintend/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/java/com/example/lab5_implicitintend/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/app/src/test/java/com/example/lab5_implicitintend/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab5_ImplicitIntend/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6_ExplicitIntent/app/src/main/java/com/example/lab6_explicitintent/ResultActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab6_ExplicitIntent/app/src/main/res/layout/result.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/androidTest/java/com/example/lab_animation/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/java/com/example/lab_animation/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/blink.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/clockwise.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/fade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/move.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/myanimation.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/anim/slide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/app/src/test/java/com/example/lab_animation/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_Animation/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_DatePicker/DatePickerTutorial-master/DatePickerTutorial-master/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_DatePicker/DatePickerTutorial-master/DatePickerTutorial-master/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab_SQLite/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/ipch/AutoPCH/a88ef42c56becd5c/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp0/.vs/AGPA_Exp0/v17/ipch/AutoPCH/a88ef42c56becd5c/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/FileContentIndex/5f6d370b-a6fc-450b-969e-42274dec12c5.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/ipch/AutoPCH/21fb9cec282cd284/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/.vs/AGPA_Exp1/v17/ipch/AutoPCH/21fb9cec282cd284/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/AGPA_Exp1.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/main.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/main.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/AGPA_Exp1/x64/Debug/vc143.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp1/x64/Debug/AGPA_Exp1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/ipch/AutoPCH/36d55abc49fa3534/MAIN.ipch" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/.vs/AGPA_Exp2/v17/ipch/AutoPCH/36d55abc49fa3534/MAIN.ipch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/AGPA_Exp1/x64/Debug/AGPA_Exp2.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp2/x64/Debug/AGPA_Exp2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/Wordel2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/tempCodeRunnerFile.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/tempCodeRunnerFile.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Exp3/test.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/FileContentIndex/e214affa-a4bd-4995-9b7a-82f93603bf08.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/FileContentIndex/ec9aecfb-198d-40a5-bc39-8d96c873b5b4.vsidx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../Sem5_AGPA_Lab/AGPA_Theory1/.vs/AGPA_Exp2/v17/Browse.VC.db" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_30" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/lab2/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1400" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lab 2 - Copy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lab 2 - Copy" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab_SQLite" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8eb9b7a-0f4d-4140-b3dd-ccb78b2e8ddd" name="Default Changelist" comment="" />
+      <created>1661232993367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661232993367</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2729676" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.50053304" side_tool="true" weight="0.16065574" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" sideWeight="0.49946696" visible="true" weight="0.16045845" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Preview" order="4" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.23560767" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/lab2/MainActivity.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+//
+// Created by BAHNIJIT on 23-09-2022.
+//
+
+#ifndef MY_APPLICATION_EXAMPLEFRAGMENT_H
+#define MY_APPLICATION_EXAMPLEFRAGMENT_H
+
+
+
+class ExampleFragment {
+
+};
+
+
+
+#endif //MY_APPLICATION_EXAMPLEFRAGMENT_H

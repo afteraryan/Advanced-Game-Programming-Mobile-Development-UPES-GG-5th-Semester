@@ -16,7 +16,7 @@ void init(void)
 void DrawLine(GLfloat xStart, GLfloat yStart, GLfloat xEnd, GLfloat yEnd)
 {
 	glBegin(GL_LINES);
-	glColor3f(1, 1, 1);
+	glColor3f(1, 0, 1);
 	glVertex2f(xStart, yStart);
 	glVertex2f(xEnd, yEnd);
 	glEnd();
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 	glutInitWindowSize(WindowWidth, WindowHeight);
 	glutCreateWindow("Aryan Saxena: 500082431");
 	init();
-	glutDisplayFunc(displayWeb);
+	glutDisplayFunc(displayGrid);
 	glutMainLoop();
 	return 0;
 }

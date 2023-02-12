@@ -1,0 +1,13 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (AGPA_Exp1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(85,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(94,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(96,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(98,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(100,1): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(155,63): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(156,60): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(216,27): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\AGPA_Exp1\main.cpp(223,83): warning C4305: 'argument': truncation from 'double' to 'float'
+  AGPA_Exp1.vcxproj -> D:\UPES\Academics\3rd Year\5th Semester\Advanced-Game-Programming-Mobile-Development-UPES-GG-5th-Semester\Sem5_AGPA_Lab\Bahri Maal\AGPA_Exp2.2 Rectabgle\x64\Debug\AGPA_Exp2.exe
+          1 file(s) copied.

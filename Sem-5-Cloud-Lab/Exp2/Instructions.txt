@@ -1,0 +1,20 @@
+add SQL Server Local DB
+EMulator nodejs
+
+Publish
+
+Target->Azure
+windows
+
+Create resoure pool
+Finish
+
+
+SQL server database -> connect Azure sql database
+
+Databse Connection -> AZURE username, password, 
+connect stroge -> next -> next -> finished
+
+#connected
+
+PUBLISH()
